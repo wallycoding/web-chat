@@ -1,0 +1,7 @@
+.app {
+  display: flex;
+  min-height: 100vh;
+  background-color: var(--full-background);
+  flex-wrap: wrap;
+  overflow: auto;
+}

@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&family=Train+One&display=swap');
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background: none;
+  text-decoration: none;
+  border: none;
+  outline: none;
+}
+
+:root {
+  --full-background: #17171c;
+  --background: #0c0c0f;
+  --text-color: #ece8e8;
+  --main-color: #7143de;
+}
